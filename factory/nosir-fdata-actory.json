@@ -1,0 +1,9 @@
+{
+	"name": "nosir-fdata-actory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4af7957a-d40a-477a-b773-96dd0fa34b02",
+		"tenantId": "a09c8c64-18f0-4f22-b469-71244e489a42"
+	}
+}
